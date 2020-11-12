@@ -1,5 +1,5 @@
 from telethon import events
-from alluka import tbot
+from SaitamaRobot import tbot
 
 
 def register(**args):
